@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Whores",
+		"resourceType": "Luxury",
+	"improvedBy": ["Brothel"],
+		"terrainsCanBeFoundOn": ["Desert","Forest","Grassland","Hill","Jungle","Plains","Tundra"],
+		"culture": -1,
+		"faith": -1,
+		"happiness": 5
+	}
+]

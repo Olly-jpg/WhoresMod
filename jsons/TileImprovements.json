@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Brothel",
+		"turnsToBuild": 7,
+		"gold": 2,
+  "techRequired": "Agriculture",
+ "uniques": ["Can only be built to improve a resource","Improvement","Pillaging this improvement yields approximately [+10 Gold]"]
+	}
+]
+
+//, "Does not need removal of [Forest]","Does not need removal of [Jungle]"
