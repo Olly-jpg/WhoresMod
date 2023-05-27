@@ -1,0 +1,62 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Brothel
+  rotate: false
+  xy: 4, 148
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ResourceIcons/Whores
+  rotate: false
+  xy: 524, 148
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Brothel
+  rotate: false
+  xy: 4, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Whores
+  rotate: false
+  xy: 1044, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Whores+Brothel
+  rotate: false
+  xy: 1116, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Whores2
+  rotate: false
+  xy: 4, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Whores3
+  rotate: false
+  xy: 76, 76
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Whores4
+  rotate: false
+  xy: 1044, 524
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
